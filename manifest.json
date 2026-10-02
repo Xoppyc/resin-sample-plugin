@@ -1,0 +1,10 @@
+{
+  "id": "hello-resin",
+  "name": "Hello Resin",
+  "version": "1.0.0",
+  "minAppVersion": "0.4.0",
+  "description": "First external test plugin for Resin",
+  "author": "Xyc",
+  "isDesktopOnly": true
+}
+
